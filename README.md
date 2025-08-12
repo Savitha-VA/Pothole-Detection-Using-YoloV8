@@ -11,7 +11,7 @@ This can also be integrated into dashcams or webcams for real-time road assessme
 - Real-time pothole detection in images and videos.
 -  Built with **YOLOv8** (You Only Look Once, version 8).
 - Evaluation metrics: **Precision**, **Recall**, **mAP**.
-- Custom dataset with annotated potholes.
+- Custom Roboflow dataset with annotated potholes.
 
 
 ---
