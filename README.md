@@ -74,6 +74,5 @@ This can also be integrated into dashcams or webcams for real-time road assessme
 
 | Input Image                  | Detection Result                       |
 | ---------------------------- | -------------------------------------- |
-| ![954dfe16-84c7-42a9-9722-a34d38740a2b](https://github.com/user-attachments/assets/caf04200-db89-4faf-8747-422739c6c3ac)
- | <img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/7cf7881a-c185-4e21-8abf-13667f1e742c" />|
+| ![954dfe16-84c7-42a9-9722-a34d38740a2b](https://github.com/user-attachments/assets/caf04200-db89-4faf-8747-422739c6c3ac)| <img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/7cf7881a-c185-4e21-8abf-13667f1e742c" />|
 
