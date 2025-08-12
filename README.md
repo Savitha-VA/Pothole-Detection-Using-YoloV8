@@ -33,25 +33,25 @@ This can also be integrated into dashcams or webcams for real-time road assessme
 
 
 **Sample Dataset**
-<img width="674" height="306" alt="image" src="https://github.com/user-attachments/assets/c6762540-5dbf-4500-82e0-bdb11e6472c0" />
+  <img width="674" height="306" alt="image" src="https://github.com/user-attachments/assets/c6762540-5dbf-4500-82e0-bdb11e6472c0" />
 
 
 **Training Data**
-<img width="607" height="291" alt="image" src="https://github.com/user-attachments/assets/d65d6f95-61da-4c7f-b565-1e0737b02774" />
+  <img width="607" height="291" alt="image" src="https://github.com/user-attachments/assets/d65d6f95-61da-4c7f-b565-1e0737b02774" />
 
 **Testing Data**
-<img width="630" height="278" alt="image" src="https://github.com/user-attachments/assets/1b1b0efc-1ba7-46c6-b66c-0814b2f62a00" />
+  <img width="630" height="278" alt="image" src="https://github.com/user-attachments/assets/1b1b0efc-1ba7-46c6-b66c-0814b2f62a00" />
 
 **Validation Data**
-<img width="623" height="277" alt="image" src="https://github.com/user-attachments/assets/79e77c53-a340-4b10-ba0b-81afe1527b54" />
+  <img width="623" height="277" alt="image" src="https://github.com/user-attachments/assets/79e77c53-a340-4b10-ba0b-81afe1527b54" />
 
 
 
 ## Training Performance
 
 **Loss & mAP Curves**
-<img width="737" height="368" alt="image" src="https://github.com/user-attachments/assets/08707d71-f623-4623-932a-79b9aca7ec9e" />
-<img width="749" height="365" alt="image" src="https://github.com/user-attachments/assets/07f4bd3c-28df-4fcd-82af-605805a7a4f7" />
+  <img width="737" height="368" alt="image" src="https://github.com/user-attachments/assets/08707d71-f623-4623-932a-79b9aca7ec9e" />
+  <img width="749" height="365" alt="image" src="https://github.com/user-attachments/assets/07f4bd3c-28df-4fcd-82af-605805a7a4f7" />
 
 
 ------
@@ -59,9 +59,9 @@ This can also be integrated into dashcams or webcams for real-time road assessme
 ## Performance Summary
 | Metric     | Value       |
 | ---------- | ----------- |
-| mAP\@0.5   | **88.5%**     |
+| mAP\@0.5   | **88.5%**   |
 | Precision  | **87%**     |
-| Recall     | **84.4%**     |
+| Recall     | **84.4%**   |
 | Epochs     | **50**      |
 | Image Size | **640×640** |
 
@@ -69,7 +69,7 @@ This can also be integrated into dashcams or webcams for real-time road assessme
 
 | Input Image                  | Detection Result                       |
 | ---------------------------- | -------------------------------------- |
-| ![Input](![954dfe16-84c7-42a9-9722-a34d38740a2b](https://github.com/user-attachments/assets/8b75e49d-201f-44f7-adea-0bcd87edd422)
-) | ![Output](<img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/29d68c08-ec9a-476b-8412-e8d43bc06aaf" />
+| ![Input](![954dfe16-84c7-42a9-9722-a34d38740a2b](https://github.com/user-attachments/assets/ca81c108-75ef-41cd-8a60-84ba8a664ca8)
+) | ![Output](<img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/7cf7881a-c185-4e21-8abf-13667f1e742c" />
 ) |
 
